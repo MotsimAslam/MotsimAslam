@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Motsim Aslam
-- ✅ I'm working on Data Analyst | Business Intelligence | Excel | Power BI | Tableau |Analytics | CRM | Google Analytics 
-     | SQL| Python & R Programming | Shopify and WordPress Developer as I have worked 3 years in a Software Company
-- 🌱 I’m currently learning and working on Data Science and Machine Learning Algorithms.
-- 💞️ I want to collaborate in the Data Analyst Community, Artificial Intelligence AI, and Deep learning.
+- ✅ I'm an Associate Data Scientist and Machine Learning Engineer with three years of experience in a Software Company. Skilled in Data Analysis, Excel, Power BI, CRM, Google Analytics, SQL, Python Programming, Shopify, and WordPress Development. Certified in Google Data Analytics and SQL.
+- 🌱 Currently advancing expertise in Data Science and Machine Learning Algorithms.
+- 💞️ Eager to collaborate on projects in the Data Science Community, Artificial Intelligence, and Deep Learning. Let's connect and innovate with data!
 - 🔥 Certification include
-           🌱  Google Data Analytics
+           🌱  Certified Google Data Analytics, Supervised & Unsupervised Learning
            🌱  SQL
            🌱  Python
       
