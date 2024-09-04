@@ -1,4 +1,4 @@
-# Hi👋, I'm Motsim
+# Hi👋, I'm Motsim Aslam
 ## About Me
 
 I’m Motsim Aslam, and I’m all about diving deep into the world of Data Science. I’m the kind of person who’s always on the lookout for chances to expand my knowledge and skills. Working with others is where I shine best – I’ve got a solid background in teamwork and collaboration. Stepping out of my comfort zone? Piece of cake! I thrive on challenges and pushing myself to go beyond what I thought possible. So, when it comes to taking on new tasks, count me in! I’m itching to bring my expertise and enthusiasm to your team and help take the company to new heights.
