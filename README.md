@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="watermarked_img_6178930060660999635.jpg" width="100%" alt="Motsim Aslam — AI/ML Researcher · NLP · Computer Vision · Generative AI" />
+<img src="Motsim Aslam.jpg" width="100%" alt="Motsim Aslam — AI/ML Researcher · NLP · Computer Vision · Generative AI" />
 
 <br />
 
