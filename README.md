@@ -7,7 +7,7 @@
 
 ### AI/ML · Natural Language Processing · Generative AI · Healthcare AI
 
-I build intelligent, human-centered systems using **machine learning, natural language processing, generative AI, and multimodal technologies**, with a growing research focus on applications in **healthcare, education, and rehabilitation**.
+I build intelligent, human-centered systems using **machine learning, natural language processing, generative AI, and multimodal technologies**, with a growing research focus on applications in **healthcare, education, and Applied AI**.
 
 I am particularly interested in how AI systems can transform complex real-world information into **interpretable, useful, and evidence-driven decisions**.
 
@@ -28,6 +28,8 @@ I am particularly interested in how AI systems can transform complex real-world 
 * **Explainable & Trustworthy AI**
 * **AI for Education**
 * **AI applications in Rehabilitation & Movement Sciences**
+* **Machine Learning**
+* **Computer Vision**
 
 ---
 
