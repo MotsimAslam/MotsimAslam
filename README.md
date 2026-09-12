@@ -1,4 +1,9 @@
 # Hi, I'm Motsim Aslam 👋
+<div align="center">
+
+<img src="Motsim Aslam.png" width="100%" alt="Motsim Aslam — AI/ML Researcher · NLP · Computer Vision · Generative AI" />
+
+<br />
 
 ### AI/ML · Natural Language Processing · Generative AI · Healthcare AI
 
