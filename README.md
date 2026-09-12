@@ -1,7 +1,7 @@
 # Hi, I'm Motsim Aslam 👋
 <div align="center">
 
-<img src="/Motsim Aslam.png" width="100%" alt="Motsim Aslam — AI/ML Researcher · NLP · Computer Vision · Generative AI" />
+<img src="/Motsim Aslam.jpg" width="100%" alt="Motsim Aslam — AI/ML Researcher · NLP · Computer Vision · Generative AI" />
 
 <br />
 
